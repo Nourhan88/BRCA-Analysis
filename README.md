@@ -111,13 +111,13 @@ Explore the interactive dashboard here:
 ![3](https://github.com/user-attachments/assets/37f7bc6a-49a9-461d-8b59-38fd3e7c8524)
 ![4](https://github.com/user-attachments/assets/d0ca0047-674a-4297-91c0-e4cf5b1502ae)
 
-##Machine Learning Algorithm 
+## Machine Learning Algorithm  
 In this project, we utilized various machine learning techniques to predict survival rates for BRCA (Breast Cancer) patients. Given the imbalanced nature of the dataset, we implemented the following:
 
- ###1.XGBoost
+ ### 1.XGBoost
 XGBoost the Gradient Boosting algorithm helped in building a predictive model that considers complex relationships between features.
 
-###2.SMOTE (Synthetic Minority Over-sampling Technique)
+### 2.SMOTE (Synthetic Minority Over-sampling Technique)
 To address the class imbalance in the dataset, we used SMOTE. 
 
 These algorithms were crucial in improving the model's accuracy and providing better predictions for the survival rates of patients.
